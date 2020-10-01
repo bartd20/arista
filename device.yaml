@@ -1,0 +1,7 @@
+---
+transport: https
+host: arista4.lasthop.io
+username: pyclass
+password: PASSWORD
+port: 443
+
